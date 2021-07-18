@@ -1,4 +1,4 @@
-#STUDY NOTE
+# STUDY NOTE
 
 매일 공부한 내용을 이곳에 정리합니다.
 
